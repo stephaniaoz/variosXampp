@@ -1,0 +1,13 @@
+cd xampp> composer --help
+htdocs> composer create-project laravel/laravel prueba_ambiente --prefer-dist
+C:\xampp\htdocs\prueba_ambiente> php artisan serve
+---->cls > limpiar consola
+htdocs> cd prueba_ambiente
+htdocs> php artisan serve
+
+en el navegador http://localhost:8000/
+
+htdocs\curso_laravel\01> composer create-project laravel/laravel 02 --prefer-dist
+htdocs\curso_laravel\01\02>
+
+

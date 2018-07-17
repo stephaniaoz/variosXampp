@@ -1,0 +1,6 @@
+https://aws.amazon.com/es/ec2/getting-started/
+https://aws.amazon.com/es/ec2/pricing/
+https://aws.amazon.com/es/ec2/instance-types/
+https://aws.amazon.com/es/ec2/details/HHT
+
+
